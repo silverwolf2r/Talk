@@ -7,6 +7,7 @@ sudo apt upgrade
 sudo apt install python3 
 sudo apt install pip3
 sudo apt install sox
+sudo apt install libsox-fmt-all
 pip3 install gtts
 
 
