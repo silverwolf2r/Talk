@@ -6,7 +6,7 @@ Talk () {
 cd Talk
  read Talk
  echo -e "$Talk" >> CursedWords.txt
- python3 Cursespeak.py
+ python3 Speak.py
  play DontCurse.mp3
  rm DontCurse.mp3
  rm CursedWords.txt
@@ -17,7 +17,7 @@ talk () {
 cd Talk
  read talk
  echo -e "$talk" >> CursedWords.txt
- python3 Cursespeak.py
+ python3 Speak.py
  play DontCurse.mp3
  rm DontCurse.mp3
  rm CursedWords.txt
