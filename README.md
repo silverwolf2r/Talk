@@ -6,9 +6,9 @@ To use this script if everything is set up properly you just type either Talk or
 
 
 ------FOR SETUP---------
-After Downlaoding everything
+After Gitcloning everything
 Type into cmd
-./Downloads/TalkSetup.sh 
+./Talk/TalkSetup.sh 
 
 Then Put this line of code at the bottom of .bashrc
  source ~/Talk/Talk.sh
