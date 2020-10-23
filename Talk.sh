@@ -3,6 +3,8 @@
 #!/bin/bash
 
 Talk () {
+while :
+do
 cd Talk
  read Talk
  echo -e "$Talk" >> CursedWords.txt
@@ -11,9 +13,12 @@ cd Talk
  rm DontCurse.mp3
  rm CursedWords.txt
  cd
-}
+ done
+} &> /dev/null
 
 talk () {
+while :
+do
 cd Talk
  read talk
  echo -e "$talk" >> CursedWords.txt
@@ -22,5 +27,6 @@ cd Talk
  rm DontCurse.mp3
  rm CursedWords.txt
  cd
-}
+ done
+} &> /dev/null
 
