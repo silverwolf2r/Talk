@@ -2,7 +2,7 @@
 This uses python and bash to make any text you type in speak.
 To use this you MUST follow the instructions below
 
-To use this script if everything is set up properly you just type either Talk or talkinto terminal press enter then type what you want to say then press enter and the computer should speak.
+To use this script if everything is set up properly you just type either Talk or talk into terminal press enter then type what you want to say then press enter and the computer should speak.
 
 
 ------FOR SETUP---------
