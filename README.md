@@ -11,7 +11,7 @@ Type into cmd
 ./Downloads/TalkSetup.sh 
 
 Then Put this line of code at the bottom of .bashrc
- source ~/myscripts/Talk.sh
+ source ~/Talk.sh
 
 If TalkSetup.sh does not work
 Run these commands in Terminal
